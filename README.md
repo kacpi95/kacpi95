@@ -9,7 +9,7 @@
     <img align="center" style="margin-right:100;" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1D-sL2RhSrSVyPojL6s8HT8vv4M65r_FV">
+  <a href="https://drive.google.com/file/d/15cFouKVI7V7u4cldmO8-1P63kDq7okbu/view?usp=drive_link">
     <img align="center" src="https://img.shields.io/badge/CV-24292e?style=for-the-badge&logo=readme&logoColor=white"/>
   </a>
 </div>
