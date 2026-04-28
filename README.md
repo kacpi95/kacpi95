@@ -8,10 +8,6 @@
   <a href="mailto:kacpergrzywacz2@gmail.com">
     <img align="center" style="margin-right:100;" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1DAjdqek8A2M0Rf0slE_FT5jDABbvcK_r/view?usp=drive_link">
-    <img align="center" src="https://img.shields.io/badge/CV-24292e?style=for-the-badge&logo=readme&logoColor=white"/>
-  </a>
 </div>
 
 ##
