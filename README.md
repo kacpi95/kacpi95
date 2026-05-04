@@ -44,8 +44,22 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kacpi95&show_icons=true&theme=dark) 
-![](https://nirzak-streak-stats.vercel.app/?user=kacpi95&theme=dark) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kacpi95&layout=compact&theme=dark)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kacpi95&show_icons=true&theme=tokyonight"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kacpi95&theme=tokyonight"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacpi95&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## ⚡ About me
+
+* 🎯 Focused on becoming a strong fullstack developer
+* 🧠 Learning clean architecture & scalable apps
+* 🛠️ Love building real-world projects
+
