@@ -1,16 +1,23 @@
-## Hello, I'm Kacper
+# 👋 Hello, I'm Kacper
 
-<div>
-  <a  href="https://www.linkedin.com/in/kacper-grzywacz">
-    <img align="center" style="margin-right:10;" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+💻 Fullstack Developer (React / Node.js)
+🚀 Building modern web apps & improving every day
+
+---
+
+## 🌐 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/kacper-grzywacz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:kacpergrzywacz2@gmail.com">
-    <img align="center" style="margin-right:100;" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+</p>
 
-##
+---
+
 
 <h3>💻 Tech Stack</h3>
 <div style="display: inline_block;">
