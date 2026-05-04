@@ -47,12 +47,11 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kacpi95&show_icons=true&theme=tokyonight"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kacpi95&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kacpi95&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacpi95&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacpi95&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
