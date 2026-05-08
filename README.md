@@ -54,3 +54,9 @@
 * 🧠 Learning clean architecture & scalable apps
 * 🛠️ Love building real-world projects
 
+---
+
+## 🚀 Featured Projects
+
+Check out my pinned repositories below for selected fullstack and mobile projects.
+
